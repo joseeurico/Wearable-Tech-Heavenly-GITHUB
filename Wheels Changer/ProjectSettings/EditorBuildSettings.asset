@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene UI/UI Menu.unity
+    guid: deda38c2511f2c041abc6ede1d3cb287
+  - enabled: 1
+    path: Assets/Scene UI/Menu_Help.unity
+    guid: dd700435be4e2dd409f03f1885f3e73e
+  - enabled: 1
+    path: Assets/Scene UI/Menu_Brand.unity
+    guid: 168f4403d6280b6409c7ab22a2c48536
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandBBS.unity
+    guid: 50665fa7a95865a488b1d12dfcf0e371
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandEnkei.unity
+    guid: 29f4920da926656428232b504f0d1ca9
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandFifteen.unity
+    guid: d98f761212c7f6140955a43a10ec354c
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandHSR.unity
+    guid: 344a676542e7d39449791d3fbe914a30
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandMugen.unity
+    guid: 0b29983b2dbbd9c43beb6c730a13fa15
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandRotiform.unity
+    guid: d8f792a37fea2bf4cae090df8b43c4ac
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandSpoon.unity
+    guid: 4da6fd259bef6a549b0670075e15cc38
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandVolk.unity
+    guid: 328dde30a554088418b9c437a14dd931
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/BrandVossen.unity
+    guid: 45c10092fda9a15489103b236d6a81ac
+  - enabled: 1
+    path: Assets/Scene UI/Scene Brand/NewBrandWork.unity
+    guid: cd871feb91e4ac643b0ba22e8ce8f551
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/BBSDetails.unity
+    guid: c1d41537f29c75048b1ab47d8071fa34
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/BBSRSDetails.unity
+    guid: 45b57a18d053b7249b92fbf2a0b2ce59
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/EnkeiDetails.unity
+    guid: a5a28f21c1dc76c4bb6311a985889e54
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/EquipDetails.unity
+    guid: 3fac8f5d7758e01448a80bb8b81eb223
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/MeisterDetails.unity
+    guid: 62deee1df3c544d4983bfe8d82a0a858
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/RAIS1Details.unity
+    guid: 9e0268061cdd8a940a56500e18da7214
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/WorkDetails.unity
+    guid: c7ffb1913b8d1ca4f870afefb35bba95
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/M7Details.unity
+    guid: c7371164274b0734fb638af12178acb5
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/DABDetails.unity
+    guid: cb1b8d0e8665b4d4d9485d3cc2137ef9
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/ROCDetails.unity
+    guid: 1445107f6dc631b44817a802a0552747
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/SW388Details.unity
+    guid: 0fbdba1baf841834fa89ea008bc8edea
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/TE37Details.unity
+    guid: af788b5285a7edb4496d84cbe71aeb36
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/VFS1Details.unity
+    guid: 2e0452e9c5f4ba54d8321f2220bc9e02
+  - enabled: 1
+    path: Assets/Scene UI/Scene Details/IntegraleDetails.unity
+    guid: 8ce50fa002e6a2d4aa9cf927e125c6c2
+  - enabled: 1
+    path: Assets/Scenes/Final/CHR.unity
+    guid: 7e5623d7ff53aed49830711dc784bd9f
+  - enabled: 1
+    path: Assets/Scenes/Final/BBS-RS.unity
+    guid: 14d305e1b97f94340a6fe217d2cc24c6
+  - enabled: 1
+    path: Assets/Scenes/Final/M7.unity
+    guid: 02adcba2c3f2a794cba522c8e156ac19
+  - enabled: 1
+    path: Assets/Scenes/Final/RAIS1.unity
+    guid: a693c15454f7614479480d8c5d43a719
+  - enabled: 1
+    path: Assets/Scenes/Final/SW03.unity
+    guid: f7c9e603655eda244a139534f50bc6eb
+  - enabled: 1
+    path: Assets/Scenes/Final/TE37.unity
+    guid: 84073b9e4f5741b4b8ad33997b36a078
+  - enabled: 1
+    path: Assets/Scenes/Final/Emotion.unity
+    guid: 5d1a0bf449e2f434f99256c42b89907f
+  - enabled: 1
+    path: Assets/Scenes/Final/Integrale.unity
+    guid: 700aafd861ca9de43b59dc73328a2ad9
+  - enabled: 1
+    path: Assets/Scenes/Final/NT10.unity
+    guid: 116faf242d3379047b67623061a046c2
+  - enabled: 1
+    path: Assets/Scenes/Final/ROC.unity
+    guid: d00d19d5a0844144ea3980b6a3be64d4
+  - enabled: 1
+    path: Assets/Scenes/Final/DAB.unity
+    guid: c6f534e4d5627f247b1314b14224469f
+  - enabled: 1
+    path: Assets/Scenes/Final/Equip.unity
+    guid: aebc1bbac9d871b4185fb19914da4492
+  - enabled: 1
+    path: Assets/Scenes/Final/Meister.unity
+    guid: d61f1c3c9f423ef41bff83f8fa1f8b13
+  - enabled: 1
+    path: Assets/Scenes/Final/VFS1.unity
+    guid: 82ace4db6ac2d79498ac1213d58d3024
+  m_configObjects: {}
